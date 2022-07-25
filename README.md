@@ -1,1 +1,0 @@
-# trind-mailbot
