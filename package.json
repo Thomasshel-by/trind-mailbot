@@ -1,0 +1,27 @@
+{
+  "name": "trind-mailbot-package",
+  "version": "1.0.0",
+  "description": "Mailbot package by Trindade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomasshel-by/trind-mailbot.git"
+  },
+  "keywords": [
+    "mailbot",
+    "package",
+    "discord"
+  ],
+  "author": "Trindade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomasshel-by/trind-mailbot/issues"
+  },
+  "homepage": "https://github.com/Thomasshel-by/trind-mailbot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
